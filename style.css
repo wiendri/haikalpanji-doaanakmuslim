@@ -2,7 +2,7 @@ body {
 margin: 1rem;
 font-family: sans-serif;
 line-height: 1.5;
-background-color: red;
+background-color: #red;
 padding:50px;
 }
 
@@ -24,11 +24,11 @@ h1,h2,h3{
 
 h1{
   font-size: 36pt;
-  color: 0A7C6E;
+  color: #0A7C6E;
 }
 
 .card{
-  background-color:306D29;  
+  background-color:#306D29;  
   padding: 50px;
   margin: 50px;
   border-radius: 50px;
@@ -46,7 +46,7 @@ nav ol li{
 
 nav ol li a{
   text-decoration:none;
-  color:#000
+  color:#000;
 }
 
 nav{
