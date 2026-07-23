@@ -1,0 +1,86 @@
+body {
+margin: 1rem;
+font-family: sans-serif;
+line-height: 1.5;
+background-color: red;
+padding:50px;
+}
+
+p ,li{
+  font-family: "Supermercado One", sans-serif;
+  font-weight: 400;
+  font-style: normal;     
+  color: #ffffff;
+  font-size: 14pt;
+}
+
+h1,h2,h3{
+  font-family: "Supermercado One", sans-serif;
+  font-weight: 400;
+  font-style: normal;     
+  color: #ffffff;
+  
+}
+
+h1{
+  font-size: 36pt;
+  color: 0A7C6E;
+}
+
+.card{
+  background-color:306D29;  
+  padding: 50px;
+  margin: 50px;
+  border-radius: 50px;
+}
+
+.container{
+  padding: 60px;
+}
+
+nav ol li{
+  list-style-type:none;
+  display:inline;
+  padding:21px;
+}
+
+nav ol li a{
+  text-decoration:none;
+  color:#000
+}
+
+nav{
+  background-color:#FFF2DB;
+  padding:10px;
+  border-style:dashed;
+  border-color:#4382DF;
+  border-width:10px;
+  border-radius:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
